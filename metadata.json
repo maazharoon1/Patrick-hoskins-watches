@@ -1,0 +1,6 @@
+{
+  "name": "Patrick Hoskins — Haute Horlogerie",
+  "description": "A curated selection of exceptional timepieces defined by precision, craftsmanship, and timeless design at 109 E. Oak St, Chicago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
